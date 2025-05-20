@@ -1,0 +1,1 @@
+# Code for "Limit reference points and equilibrium stock dynamics in the presence of recruitment depensation"
